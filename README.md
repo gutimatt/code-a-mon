@@ -1,4 +1,4 @@
-# Code-a-mon
+# Code-Crafter
 I have a couple of ideas for the design patterns to use.  For example, a strategy pattern can be used to override methods
 based on the code-a-mon that uses it.  A decorator pattern can also be used for the evolution to upgrade a code-a-mon if 
 possible. An observer can also be used to update the trainers when their code-a-mon upgrades or gets updated.
